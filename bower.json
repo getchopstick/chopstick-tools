@@ -2,7 +2,7 @@
   "name": "chopstick-tools",
   "description": "Chopstick tools layer",
   "dependencies": {
-    "chopstick-settings": "0.7.0",
+    "chopstick-settings": "0.7.0"
   },
   "keywords": [
     "front-end",
